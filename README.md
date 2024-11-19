@@ -46,3 +46,22 @@ Camera Controls:
 Left-click and drag to rotate the camera view.
 Use the mouse wheel to zoom in and out.
 Middle-click and drag to pan the camera.
+
+ **start page**
+![image](https://github.com/user-attachments/assets/6567cabe-920d-47d0-9aa9-d4a852d35871)
+
+**coordinates page**
+![image](https://github.com/user-attachments/assets/4b4f19dd-243e-4af0-9bb2-7a3bf0cd5ab7)
+
+**game page**
+![WhatsApp Image 2024-11-19 at 12 47 02_aad571c0](https://github.com/user-attachments/assets/b22328fc-e5c6-4b01-9a9f-a855ee2344bc)
+
+![WhatsApp Image 2024-11-19 at 12 46 21_ab3872f3](https://github.com/user-attachments/assets/93a9e6e7-772f-401f-9f28-158f7c0f9646)
+
+
+
+
+
+
+
+
